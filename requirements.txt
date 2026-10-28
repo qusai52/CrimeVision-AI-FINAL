@@ -1,0 +1,10 @@
+flask
+torch
+transformers
+timm
+pillow
+numpy
+opencv-python-headless
+faster-whisper
+groq
+reportlab
